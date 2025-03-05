@@ -1,4 +1,4 @@
-Two-Wheeler E-Commerce Backend (MERN + SQLite)
+WHEELEASE (MERN + SQLite)
 
 This is the backend for a two-wheeler e-commerce website built using Node.js, Express.js, and SQLite. It provides RESTful APIs for managing two-wheeler details, linked to a SQLite database.
 
